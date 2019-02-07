@@ -248,6 +248,7 @@ body {
 .bg-lightgreen { background-color: #7afae3; }
 .bg-rose { background-color: #ff3366; }
 .bg-tomato { background-color: #eb2f5b; }
+.bg-tomato { background-color: #176791; }
 .bg-blue { background-color: #2154cf; }
 
 
@@ -367,6 +368,7 @@ a:focus {
 
 .btn {
   background-color: #ff3366;
+  background-color: #176791;
   color: #fff;
   font-size: 0.955rem;
   font-family: 'Montserrat', sans-serif;
@@ -376,6 +378,7 @@ a:focus {
   text-transform: uppercase;
   padding: 0.95rem 2.5rem;
   border: 2px solid #ff3366;
+  border: 2px solid #176791;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   border-radius: 100px;      
@@ -1000,6 +1003,7 @@ ul.content-list li:last-child {
 .white-color .rose-icon span, 
 .rose-icon span {   
   color: #ff3366;
+  color: #176791;
 }
 
 .white-color .green-icon span,
@@ -1186,6 +1190,7 @@ span.section-id {
 .rose-color i, 
 .white-color .rose-color,
 .rose-color span { color: #ff3366; }
+.rose-color span { color: #176791; }
 
 .blue-color,
 .blue-color h2, 
